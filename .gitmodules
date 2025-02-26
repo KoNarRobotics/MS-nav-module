@@ -1,0 +1,3 @@
+[submodule "StmEpic"]
+	path = StmEpic
+	url = git@github.com:KoNarRobotics/StmEpic.git
